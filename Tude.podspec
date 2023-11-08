@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://www.aditude.com'
   s.license          = { :type => 'Custom', :file => 'LICENSE' }
   s.author           = { 'ios.team' => 'mobile.team@aditude.com' }
-  s.source           = { :git => 'https://github.com/aditude/aditude-ios-pods.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sigma-mykyta/test_cloud_private.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
